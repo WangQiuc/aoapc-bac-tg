@@ -1,0 +1,10 @@
+.*
+!.gitignore
+build/*
+*.txt
+*.data
+*.log
+*.exe
+*.py
+*test*
+*lab*
